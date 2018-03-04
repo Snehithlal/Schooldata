@@ -1,0 +1,44 @@
+ #id1{
+                border-radius: 5px;
+                background-color: #f2f2f2;
+                padding: 20px;
+                width:1000px;
+                margin: auto;        
+            }
+#tab{
+         
+           border-collapse: collapse;
+           width: 100%;
+}
+#tab td,th{
+
+         padding: 15px;
+}
+#tab th{
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4CAF50;
+            color: white;
+}
+#tab1{
+   
+    	height:30px;
+	width:60px;
+	padding:0px;
+	border-collapse:collapse;
+}
+#id2{
+    border-radius: 5px;
+    padding: 20px;
+    width:1000px;
+    margin: auto;
+    
+}
+#id2 input{
+    width: 60px;
+    height: 30px;
+    border: none;
+    text-align: center;
+    
+}
